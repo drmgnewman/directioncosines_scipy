@@ -1,4 +1,4 @@
-# Direction Cosines Left Angular Velocity 1 Program in Python.
+# Direction Cosines Right Angular Velocity 1 Program in Python.
 # Calculates the Numerical Approximation of the Motion of a 3-D Gyroscopic Pendulum
 # Using 1st-Order Runge-Kutta Method (Euler Method).
 
